@@ -1,0 +1,117 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    border: none;
+    border-radius: 0;
+    background-color: #eee;
+    border-top: solid red;
+}
+
+.dropdown-menu:hover .dropdown-item {
+    background-color: none;
+    color: red;
+}
+
+.dropdown-item {
+    padding: 10px 10px;
+}
+
+#menu a {
+    font-size: smaller;
+    color: gray;
+}
+
+.nav-item,
+.fa-brands {
+ padding-left: 10px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-indicators li {
+    height: 6px;
+    width: 25px;
+    margin-left: 15px;
+    border-radius: 50%;
+    background: black;
+}
+
+.carousel-indicators .active {
+    background: red;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 120px;
+    left: 200px
+}
+
+.col-lg-3 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.card,
+.card-img-top {
+    border-radius: 0px;
+    border: 0px;
+}
+
+.btm:hover {
+    background-color: grey;
+}
+
+.icon:hover i {
+    color: white;
+}
+
+.bgn-image {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 15%;
+    left: 40%;
+}
+
+.signature {
+    position: absolute;
+    top: 50%;
+    right: 5%;
+}
+
+.description {
+    position: absolute;
+    top: 65%;
+    left: 40%;
+}
+
+.card-body {
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+.circle-image {
+    margin-top: -30%;
+}
+
+.card-title1 {
+    padding: 15px 0px;
+    font-size: 15px;
+    border-bottom: solid red;
+}
+
+.card-1 {
+    font-size: 25px;
+    padding: 15px;
+}
+
+.card-text {
+    font-size: 12px;
+}
+.content{
+    margin-top: 120px;
+}
